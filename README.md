@@ -73,4 +73,15 @@
 
 * This is interesting, but we have no point of reference for whether footwear's median_revenue is good or bad compared to other products. So, for our final task, let's examine how this differs to clothing products. We will re-use footwear, adding a filter afterward to count the number of products and median_revenue of products that are not in footwear.
 
+## 10. Recommendation
+
+# Optimize Pricing: 
+* Consider adjusting the pricing strategy for Adidas products, especially in the "Elite" category, to maximize revenue. Carefully evaluate the impact of price changes on sales volume to strike the right balance.
+
+# Review Promotion: 
+* Implement strategies to encourage more customer reviews, such as offering small discounts on future purchases for customers who leave reviews. Leverage the strong correlation between reviews and revenue to boost sales.
+
+# Focus on Footwear: 
+* Given that footwear products account for a substantial portion of the company's stock and have a high median revenue, consider expanding and promoting footwear offerings to capitalize on their profitability.
+
 ![image](https://github.com/tonynguyen22/Optimizing-Online-Sports-Retail-Revenue/assets/69407233/8fb38cca-afaf-4a2e-ad95-f4a2d9f5ad03)
